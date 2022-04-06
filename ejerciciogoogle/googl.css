@@ -1,0 +1,226 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+New:wght@300&display=swap');
+
+
+*{
+    box-sizing: border-box;
+    font-family: 'Zen Kaku Gothic New', sans-serif;
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+li {
+    margin: 10px;
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.acceder{
+    padding: 10px 10px 15px 20px;
+    background: #1A73E8;
+    cursor: pointer;
+    vertical-align: middle;
+    height: 35px;
+    width: 40px;
+    border-radius: 4px;
+    color: aliceblue;
+    font-size: 18px;
+}
+
+
+.imagenpuntos{
+    width: 30px;
+    height: 10px;
+    margin: 15px;
+}
+
+
+.logo{
+    width: 400px;
+    height: 250px;
+    margin-left: 550px;
+}
+
+.search-icon{
+    width: 30px;
+    height: 25px;
+  top: 45px;
+   position: relative;
+  right: 590px;
+}
+
+.buscador{
+    height: 50px;
+    width: 800px;
+    border-radius: 30px;
+    border: 1px solid rgba(70, 67, 67, 0.87);
+    margin-top: 0px;
+    margin-left: 350px;
+}
+
+.google-mic{
+    width: 30px;
+    height: 30px;
+    position: relative;
+    left: -50px;
+    top: 10px;
+}
+
+.botones{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.boton1{
+    border: 0.5px solid transparent;
+    background-color: #eeeef0;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 10px;
+    font-weight: 800;
+    cursor: pointer;
+}
+
+footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 160px;
+    border-top: 0.5px solid gray;
+    padding-top: 10px;
+}
+.primera-cajita{
+    margin-left: 10px;
+    font-weight: 600;
+}
+.primera-cajita a{
+    padding: 0 10px;
+    color: gray;
+}
+.primera-cajita a:hover{
+    text-decoration: underline;
+}
+.segunda-cajita{
+    margin-left: 10px;
+    font-weight: 600;
+}
+.segunda-cajita a{
+    padding: 0 10px;
+    color: gray;
+}
+.segunda-cajita a:hover{
+    text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* a{
+    text-decoration: none;
+}
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+nav a{
+    margin-top: 10px;
+    color: black;
+}
+nav ul{
+    padding: 5px;
+}
+.pestaña:hover{
+    text-decoration: underline;
+}
+.img-puntos{
+    height: 30px;
+    width: 30px;
+    margin-top: 18px;
+}
+ .botones{
+    padding: 10px 20px 35px 20px;
+    background: #1A73E8;
+    cursor: pointer;
+    vertical-align: middle;
+    margin-left: 10px;
+    margin-right: 8px;
+    border-radius:4px;
+    height: 40px;
+    width: 100px;
+    vertical-align: middle;
+ }
+ .boton span{
+     color: #fff;
+ }
+ .logo{
+    position: relative;
+    left: 630px;
+    top: 180px;
+ }
+ .buscador{
+     height: 50px;
+     width: 800px;
+     border-radius: 30px;
+     border: 1px solid rgba(70, 67, 67, 0.87);
+     margin-left: 330px;
+     margin-top: 190px;
+ }
+ .search-icon{
+     width: 30px;
+     height: 30px;
+     position: relative;
+     left: 380px;
+     top: 10px;
+ }
+ .google-mic{
+    width: 30px;
+    height: 30px;
+    position: relative;
+    left: -50px;
+    top: 10px;
+ }
+.botones{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 20px;
+    
+}
+.boton1{
+    border: 0.5px solid transparent;
+    background-color: #f8f9fa;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 10px;
+    font-weight: 800;
+    cursor: pointer;
+} */
